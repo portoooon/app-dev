@@ -13,9 +13,9 @@ My first repository
 - **Ekko**: A resourceful and resilient Zaunite youth, fighting for his community's future.
 
 ## Why I Love This Series
-1. **Stunning Animation**: The art style combines 2D and 3D animation to create a unique, visually rich experience.
-2. **Complex Characters**: Each character has a deep backstory and has strong motivations.
-3. **Thought-Provoking Themes**: The show tackles themes of class divide, family loyalty, and personal transformation.
+1. **Animation**: The art style combines 2D and 3D animation to create a unique, visually rich experience.
+2. **Characters**: Each character has a deep backstory and has strong motivations.
+3. **Themes**: The show tackles themes of class divide, family loyalty, and personal transformation.
 
 ## Fun Facts
 - *Arcane* is the first show produced by Riot Games, and it became a hit on Netflix almost immediately.
